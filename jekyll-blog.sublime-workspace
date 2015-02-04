@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"src",
+				"script	HTML - Script"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"$route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"ng-",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"scrip",
+				"script	Tag"
+			],
+			[
+				"scrt",
+				"script	<script>"
+			],
+			[
+				"scope",
+				"$scope	AngularJS"
+			],
+			[
+				"scr",
+				"script	<script>"
+			],
+			[
+				"time",
+				"timezone〔module〕"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"trailer_you",
+				"trailer_youtube_url"
+			],
+			[
+				"trailer_",
+				"trailer_youtube_url"
+			],
+			[
+				"wiki",
+				"wikipedia"
+			],
+			[
+				"sass",
+				"assert.AssertionError;"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"docs",
+				"dns.resolveSrv(name, callback);"
+			],
+			[
+				"completed",
+				"completed"
+			],
+			[
+				"acti",
+				"activeClass"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"li",
+				"li	<li>"
+			],
+			[
+				"input",
+				"input	input - checkbox"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"ul",
+				"ul	<ul>"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"tran",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"up",
+				"uppercase"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Sass",
+				"SassBeautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"GPL",
+				"Licence Snippet: GNU GPL v2.0 [Header]"
+			],
+			[
+				"preview",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"confi",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"high",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"algin",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/nickstellato.github.io"
+	],
+	"file_history":
+	[
+		"/C/projects/nickstellato.github.io/.gitignore",
+		"/C/projects/nickstellato.github.io/css/main.scss",
+		"/C/projects/nickstellato.github.io/_sass/_variables.scss",
+		"/C/projects/nickstellato.github.io/_sass/_mixins.scss",
+		"/C/projects/nickstellato.github.io/_config.yml",
+		"/C/projects/nickstellato.github.io/contact.html",
+		"/C/projects/nickstellato.github.io/projects.html",
+		"/C/projects/nickstellato.github.io/about.md",
+		"/C/projects/nickstellato.github.io/_sass/_layout.scss",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/User/Sass.sublime-settings",
+		"/C/projects/frog-wrangler/RankerController.js",
+		"/C/projects/frog-wrangler/rankerFactory.js",
+		"/C/projects/frog-wrangler/app.js",
+		"/C/projects/frog-wrangler/ranker.html",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/JSLint/JSLint.sublime-settings",
+		"/C/projects/frog-wrangler/index.html",
+		"/C/projects/treehouse-rankings-app/js/controllers/RankerController.js",
+		"/C/projects/treehouse-rankings-app/index.html",
+		"/C/projects/treehouse-rankings-app/RankerController.js",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/projects/treehouse-rankings-app/js/controllers/rankerController.js",
+		"/C/projects/treehouse-rankings-app/rankerController.js",
+		"/C/projects/mysite/mysite/settings.py",
+		"/C/projects/mysite/templates/admin/base_site.html",
+		"/C/projects/skeleton/setup.py",
+		"/C/Users/Berendson/Desktop/get-pip.py",
+		"/C/Python27/Tools/Scripts/pip.py",
+		"/C/projects/final_project/misc.py",
+		"/C/projects/final_project/Idea Definition.md",
+		"/C/projects/break_time/breaktime.py",
+		"/C/projects/final_project/draft.py",
+		"/C/projects/inheritance/ineritance.py",
+		"/C/Python27/Scripts/get-pip.py",
+		"/C/Python27/Scripts/setuptools-12.0.4/README.txt",
+		"/C/Users/Berendson/Desktop/easy_steup.py",
+		"/C/projects/final_project/Solution Design.md",
+		"/C/projects/OOP test project/entertainment_center.py",
+		"/C/projects/OOP test project/media.py",
+		"/C/projects/nickstellato.github.io/params.json",
+		"/C/projects/personal_movie_website/entertainment_center.py",
+		"/C/projects/personal_movie_website/fresh_tomatoes.py",
+		"/C/projects/movie_website/fresh_tomatoes.html",
+		"/C/projects/movie_website/media.py",
+		"/C/projects/movie_website/fresh_tomatoes.py",
+		"/C/projects/movie_website/entertainment_center.py",
+		"/C/projects/personal_movie_website/README.md",
+		"/C/projects/personal_movie_website/LICENSE.txt",
+		"/C/projects/personal_movie_website/.gitattributes",
+		"/C/projects/twilio/send_text.py",
+		"/C/projects/curse_words/curse_words.py",
+		"/C/projects/curse_words/pirate_speak.py",
+		"/C/projects/curse_words/movie_quotes.txt",
+		"/C/projects/curse_words/enumerate_months",
+		"/C/projects/rename_files/rename_files.py",
+		"/C/projects/draw_shapes/spiral.py",
+		"/C/Users/Berendson/Desktop/workflow/.gitignore",
+		"/C/xampp/htdocs/blog/builds/development/index.html",
+		"/C/xampp/htdocs/blog/components/sass/style.scss",
+		"/C/xampp/htdocs/blog/gulpfile.js",
+		"/C/xampp/htdocs/blog/package.json",
+		"/C/xampp/htdocs/blog/components/sass/_typography.scss",
+		"/C/xampp/htdocs/blog/index.html",
+		"/C/xampp/htdocs/blog/css/style.css",
+		"/C/xampp/htdocs/blog/components/sass/_base.scss",
+		"/C/xampp/htdocs/blog/components/sass/_mixins.scss",
+		"/C/xampp/htdocs/blog/components/sass/_modules.scss",
+		"/C/xampp/htdocs/blog/components/sass/_variables.scss",
+		"/C/xampp/htdocs/blog/components/coffee/coffee.coffee",
+		"/C/xampp/htdocs/blog/README.md",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/LiveReload/README.md",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/Users/Berendson/Dropbox/Projects/blog/index.html",
+		"/C/Users/Berendson/Dropbox/Projects/blog/css/style.css",
+		"/C/Users/Berendson/Dropbox/Projects/index.html",
+		"/C/Users/Berendson/Desktop/player.js",
+		"/C/Users/Berendson/Desktop/players.json",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/Berendson/Desktop/node/nodetest1/package.json",
+		"/C/Users/Berendson/Desktop/node/nodetest1/app.js",
+		"/C/Users/Berendson/Desktop/node/nodetest1/routes/index.js",
+		"/C/Users/Berendson/Desktop/node/nodetest1/views/helloworld.jade",
+		"/C/Users/Berendson/Desktop/index.html",
+		"/C/Users/Berendson/Desktop/todoMVC/index.html",
+		"/C/Users/Berendson/Desktop/todoMVC/js/router.js",
+		"/C/Users/Berendson/Desktop/todoMVC/js/views/edit_todo_view.js",
+		"/C/Users/Berendson/Desktop/todoMVC/js/controllers/todos_controller.js",
+		"/C/Users/Berendson/Desktop/todoMVC/js/application.js",
+		"/C/Users/Berendson/Desktop/todoMVC/js/controllers/todo_controller.js",
+		"/C/Users/Berendson/Desktop/todoMVC/js/models/todo.js",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/SyntaxHighlightTools/README.rst",
+		"/C/Users/Berendson/Dropbox/notes/giftcards.md",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/Berendson/Desktop/Fonts/Liberation Mono/liberationmono_bold_macroman/specimen_files/easytabs.js",
+		"/C/Users/Berendson/Desktop/Fonts/Liberation Mono/liberationmono_bold_macroman/specimen_files/grid_12-825-55-15.css",
+		"/C/Users/Berendson/Desktop/cmder/Readme.md",
+		"/C/Users/Berendson/Desktop/cmder/config/Readme.md",
+		"/C/Users/Berendson/Desktop/cmder/bin/Readme.md",
+		"/C/Users/Berendson/Desktop/Fonts/Liberation Mono/liberationmono_bold_macroman/stylesheet.css",
+		"/C/Users/Berendson/Desktop/Blog/index.html",
+		"/C/Users/Berendson/Desktop/style.css",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/User/CSS.sublime-settings",
+		"/C/Windows/Fonts/ROBOTO-MEDIUM.TTF",
+		"/C/Windows/Fonts/ROBOTO-REGULAR.TTF",
+		"/C/Windows/Fonts/ROBOTO-THIN.TTF",
+		"/C/Windows/Fonts/ROBOTO-BLACK.TTF",
+		"/C/Windows/Fonts/ROBOTO-LIGHT.TTF",
+		"/C/Windows/Fonts/ROBOTO-MEDIUMITALIC.TTF",
+		"/C/Windows/Fonts/ROBOTO-BOLD.TTF",
+		"/C/Windows/Fonts/ROBOTO-BOLDITALIC.TTF",
+		"/C/Windows/Fonts/ROBOTO-ITALIC.TTF",
+		"/C/Windows/Fonts/ROBOTO-THINITALIC.TTF",
+		"/C/Windows/Fonts/ROBOTO-LIGHTITALIC.TTF",
+		"/C/Windows/Fonts/ROBOTO-BLACKITALIC.TTF",
+		"/C/Users/Berendson/Desktop/reset.css",
+		"/C/Users/Berendson/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/Berendson/Desktop/g+pic---blue-background.jpg",
+		"/C/Users/Berendson/Desktop/grid.css"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dataservice",
+			"  \n",
+			"highlight",
+			"true",
+			"        <",
+			"Error",
+			"browser",
+			"{\n",
+			"img",
+			"}\n",
+			"100",
+			"font-size",
+			"            <"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dataFactory"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jekyll-blog.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
