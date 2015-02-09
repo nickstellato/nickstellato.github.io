@@ -12,3 +12,4 @@ github_username:  nickstellato
 
 # Build settings
 markdown: kramdown
+highlighter: none
