@@ -1,46 +1,59 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 html {
   background: radial-gradient(rgba(0, 0, 0, .8), rgba(0,0,0,0.6));
   color: #ffffff;
   font-size: 18px;
-  text-align: center;
+}
+
+body {
   font-family: 'Lato', Arial, sans-serif;
   font-weight: 100;
-  margin: 0;
-  padding: 0;
   width: 100vw;
   height: 100vh;
 }
 
 .wrapper {
-  width: 80%;
+  width: 70%;
   margin: 20% auto;
+  display: flex;
+  flex-direction: column;
 }
 
 .small {
   font-size: 1em;
   text-transform: uppercase;
+  margin-bottom: 1em;
 }
 
 .name {
   font-family: 'Merriweather', 'Times New Roman', Times, serif;
-  font-size: 3em;
-  margin-bottom: 1em;
+  font-size: 4em;
+  margin-bottom: .5em;
 }
 
 .description {
   font-size: 1.2em;
   line-height: 1.3;
-  margin-bottom: 2em;
+  margin-bottom: 1.25em;
 }
 
 .social-media-list {
   list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin-top: 1em;
 }
 
 .social-media-item {
   font-size: 1em;
-  display: inline-block;
-  padding-right: 1em;
 }
 
 .social-media-link {
