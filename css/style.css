@@ -60,7 +60,11 @@ body {
   text-decoration: none;
 }
 
-.github,
+.social-media-link svg {
+  fill: #cccccc;
+}
+
+/* .github,
 .twitter,
 .instagram,
 .email {
@@ -72,4 +76,4 @@ body {
 .instagram:hover,
 .email:hover {
   fill: blue;
-}
+} */
