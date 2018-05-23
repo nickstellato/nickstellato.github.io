@@ -60,20 +60,6 @@ body {
   text-decoration: none;
 }
 
-.social-media-link svg {
+.social-media-icon {
   fill: #cccccc;
 }
-
-/* .github,
-.twitter,
-.instagram,
-.email {
-  fill: #cccccc;
-}
-
-.github:hover,
-.twitter:hover,
-.instagram:hover,
-.email:hover {
-  fill: blue;
-} */
