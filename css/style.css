@@ -17,46 +17,59 @@ body {
   font-weight: 100;
   width: 100vw;
   height: 100vh;
+  display: flex;
+  justify-content: center;
 }
 
 .wrapper {
-  width: 70%;
-  margin: 20% auto;
+  margin-top: 10%;
   display: flex;
   flex-direction: column;
 }
 
 .small {
-  font-size: 1em;
+  font-size: 1.5em;
   text-transform: uppercase;
   margin-bottom: 1em;
 }
 
 .name {
   font-family: 'Merriweather', 'Times New Roman', Times, serif;
-  font-size: 4em;
+  font-size: 4.5em;
   margin-bottom: .5em;
 }
 
 .description {
-  font-size: 1.2em;
-  line-height: 1.3;
+  font-size: 1.8em;
+  line-height: 1.9;
   margin-bottom: 1.25em;
 }
 
 .social-media-list {
   list-style-type: none;
   display: flex;
-  justify-content: space-between;
-  width: 70%;
   margin-top: 1em;
+  justify-content: space-between;
 }
 
 .social-media-item {
-  font-size: 1em;
+  width: 3em;
 }
 
 .social-media-link {
   text-decoration: none;
-  color: #ffffff;
+}
+
+.github,
+.twitter,
+.instagram,
+.email {
+  fill: #cccccc;
+}
+
+.github:hover,
+.twitter:hover,
+.instagram:hover,
+.email:hover {
+  fill: blue;
 }
