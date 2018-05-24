@@ -15,21 +15,16 @@ html {
 body {
   font-family: 'Lato', Arial, sans-serif;
   font-weight: 100;
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
+  min-width: 100vw;
+  min-height: 100vh;
 }
 
 .wrapper {
+  min-height: 100vh;
+  min-width: 100vw;
   display: flex;
-  justify-content: space-between;
-}
-
-.name-tag {
-  height: 100%;
+  align-items: center;
+  justify-content: center;
 }
 
 .name-tag-top {
@@ -61,10 +56,9 @@ body {
 
 .name-tag-name {
   font-family: 'Permanent Marker';
-  font-size: 44px;
+  font-size: 4em;
   line-height: 1.1;
   background-color: white;
-  padding-left: 25px;
   padding-bottom: 10px;
   padding-top: 5px;
 }
@@ -78,6 +72,11 @@ body {
   padding-bottom: 5px;
 }
 
+.wrapper-2 {
+  display: flex;
+  flex-direction: column;
+}
+
 .description {
   font-size: 1.8em;
   line-height: 1.9;
@@ -89,7 +88,6 @@ body {
   display: flex;
   margin-top: 1em;
   justify-content: space-between;
-  align-self: flex-end;
 }
 
 .link-list-item {
