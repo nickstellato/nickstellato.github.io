@@ -34,7 +34,7 @@ body {
 }
 
 .name {
-  font-family: 'Merriweather', 'Times New Roman', Times, serif;
+  font-family: 'Permanent Marker', sans-serif;
   font-size: 4.5em;
   margin-bottom: .5em;
 }
@@ -45,21 +45,21 @@ body {
   margin-bottom: 1.25em;
 }
 
-.social-media-list {
+.link-list {
   list-style-type: none;
   display: flex;
   margin-top: 1em;
   justify-content: space-between;
 }
 
-.social-media-item {
+.link-list-item {
   width: 3em;
 }
 
-.social-media-link {
+.link-list-link {
   text-decoration: none;
 }
 
-.social-media-icon {
+.link-list-icon {
   fill: #cccccc;
 }
