@@ -62,4 +62,10 @@ body {
 
 .link-list-icon {
   fill: #cccccc;
+  -webkit-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.link-list-icon:hover {
+  transform: scale(1.25);
 }
