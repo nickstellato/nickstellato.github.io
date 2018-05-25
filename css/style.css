@@ -11,6 +11,7 @@ html {
   background: radial-gradient(rgba(0, 0, 0, .2), rgba(0,0,0,0.1));
   color: #000000;
   font-size: 18px;
+  display: flex;
 }
 
 body {
@@ -24,9 +25,9 @@ body {
 .wrapper {
   min-height: 100vh;
   display: flex;
-  margin-top: 4em;
   width: 80%;
   align-items: flex-start;
+  margin-top: 8em;
 }
 
 .name-tag {
