@@ -4,7 +4,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* border: 1px solid red; */
 }
 
 html {
@@ -23,11 +22,12 @@ body {
 }
 
 .wrapper {
-  min-height: 100vh;
   display: flex;
-  width: 80%;
   align-items: flex-start;
+  flex-wrap: wrap;
+  flex-direction: row;
   margin-top: 8em;
+  width: 80%;
 }
 
 .name-tag {
@@ -85,6 +85,7 @@ body {
   line-height: 1.8;
   margin-bottom: 1.25em;
   margin-left: 2em;
+  min-width: 400px;
 }
 
 .icon {
