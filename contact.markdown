@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-<div class="container">
-    {% include contact-form.html %}
-</div>
+{% include contact-form.html %}
