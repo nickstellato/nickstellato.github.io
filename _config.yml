@@ -21,7 +21,7 @@
 title: Nick Stellato
 email: nick@nickstellato.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Musings on technology and how it affects our life.
+  Musings on technology and life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nick_stellato
